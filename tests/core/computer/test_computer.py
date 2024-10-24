@@ -1,6 +1,8 @@
 import unittest
 from unittest import mock
+
 from interpreter.core.computer.computer import Computer
+
 
 class TestComputer(unittest.TestCase):
     def setUp(self):

@@ -1,8 +1,8 @@
+import getpass
 import json
 import os
-import time
 import subprocess
-import getpass
+import time
 
 from ..utils.recipient_utils import parse_for_recipient
 from .languages.applescript import AppleScript
